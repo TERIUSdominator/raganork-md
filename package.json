@@ -1,5 +1,5 @@
 {
-  "name": "raganork-md",
+  "name": "TERIUS RAGANORK",
   "version": "4.0.0",
   "description": "Raganork whatsapp bot- Multi device version.",
   "scripts": {
@@ -14,8 +14,8 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "TERIUS",
+  "developer": "TERIUS",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/souravkl11/raganork#readme",
   "dependencies": {
